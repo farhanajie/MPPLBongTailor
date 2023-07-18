@@ -6,7 +6,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
 
-      <form method="POST" action="aksicrud.php">
+      <form method="POST" action="backend/tambahpesananBackend.php">
       <div class="modal-body">
        
             <div class="mb-3">
