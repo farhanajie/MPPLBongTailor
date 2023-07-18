@@ -1,7 +1,7 @@
 <?php
 
     //panggil koneksi
-    include "koneksi.php";
+    include "backend/koneksi.php";
 
     //uji tombol simpan
     if (isset($_POST['bsimpan'])) {
